@@ -1,4 +1,5 @@
 #! /bin/sh
+echo 'Developer 2'
 echo 'Developer 1'
 
 for i in $( ls *.txt )
